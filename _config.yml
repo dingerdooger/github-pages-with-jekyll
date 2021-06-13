@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   hamster pummel
 
 # social links
-twitter_username: N/A # DO NOT include the @ character, or else the build will fail!
+twitter_username: doobydoobydoo # DO NOT include the @ character, or else the build will fail!
 github_username:  dingerdooger # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
