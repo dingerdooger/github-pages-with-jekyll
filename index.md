@@ -10,4 +10,4 @@ My name is Maxwell Guo and here is a picture of me:
 
 My GitHub username is dingerdooger and my Discord is szhang#4429!!!!
 
-Brag Sheet: I am a member of EBesports and Team Astraea (East Brunswick FRC Team), I play for fun in many videogames, and I love tutoring people!
+Brag Sheet: I am a member of EBesports and Team Astraea (East Brunswick FRC Team), I am hardstuck silver in CSGO (real achievement), and I love tutoring people! I have also achieved 40 deaths in one game of LoL (proudest achievement, improvable).
